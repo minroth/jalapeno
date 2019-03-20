@@ -1,0 +1,28 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "API para proyecto Jalapeño",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minroth/jalapeno.git"
+  },
+  "keywords": [
+    "API",
+    "RESTful",
+    "Logger",
+    "Log"
+  ],
+  "author": "Miguel Rodriguez, Felipe Jimenez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/minroth/jalapeno/issues"
+  },
+  "homepage": "https://github.com/minroth/jalapeno#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
